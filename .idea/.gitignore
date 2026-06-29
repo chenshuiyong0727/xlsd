@@ -1,0 +1,34 @@
+# 默认忽略的文件
+/shelf/
+/.idea/workspace.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
+.DS_Store
+node_modules/
+dist/
+.cache/
+.lingma/
+.trae/
+.github/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+**/*.log
+
+tests/**/coverage/
+tests/e2e/reports
+selenium-debug.log
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+
+yarn.lock
+/.env.local
+
+#gitee密码
+71d62e6697b436c2102526c3e8b05f77
