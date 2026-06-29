@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cfcbb36-adeb-4bc2-8bd4-e149e4629758" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/写作规则.txt" beforeDir="false" afterPath="$PROJECT_DIR$/写作规则.txt" afterDir="false" />
-    </list>
+    <list default="true" id="8cfcbb36-adeb-4bc2-8bd4-e149e4629758" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782743184820</updated>
-      <workItem from="1782743186836" duration="1742000" />
+      <workItem from="1782743186836" duration="2148000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -96,7 +94,31 @@
       <option name="project" value="LOCAL" />
       <updated>1782744815246</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="厦门">
+      <option name="closed" value="true" />
+      <created>1782745028158</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782745028158</updated>
+    </task>
+    <task id="LOCAL-00007" summary="厦门">
+      <option name="closed" value="true" />
+      <created>1782745174757</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782745174757</updated>
+    </task>
+    <task id="LOCAL-00008" summary="厦门">
+      <option name="closed" value="true" />
+      <created>1782745208928</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782745208928</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
