@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cfcbb36-adeb-4bc2-8bd4-e149e4629758" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/写作规则.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/重生2011：小鹭时代.txt" beforeDir="false" afterPath="$PROJECT_DIR$/重生2011：小鹭时代.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/写作规则.txt" beforeDir="false" afterPath="$PROJECT_DIR$/写作规则.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782743184820</updated>
-      <workItem from="1782743186836" duration="1597000" />
+      <workItem from="1782743186836" duration="1742000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -90,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782744164337</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="厦门">
+      <option name="closed" value="true" />
+      <created>1782744815246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782744815246</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +106,7 @@
     <MESSAGE value="1" />
     <MESSAGE value="小禾" />
     <MESSAGE value="翔勇" />
-    <option name="LAST_COMMIT_MESSAGE" value="翔勇" />
+    <MESSAGE value="厦门" />
+    <option name="LAST_COMMIT_MESSAGE" value="厦门" />
   </component>
 </project>
