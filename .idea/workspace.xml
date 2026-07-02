@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cfcbb36-adeb-4bc2-8bd4-e149e4629758" name="更改" comment="">
+    <list default="true" id="8cfcbb36-adeb-4bc2-8bd4-e149e4629758" name="更改" comment="厦门">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/v1/新版-第一卷 三分天注定v2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/v1/新版-第一卷 三分天注定v2.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
       <workItem from="1782866274186" duration="555000" />
       <workItem from="1782893235620" duration="3980000" />
       <workItem from="1782952679317" duration="593000" />
-      <workItem from="1782956919044" duration="1831000" />
+      <workItem from="1782956919044" duration="2502000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -254,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782974057772</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="厦门">
+      <option name="closed" value="true" />
+      <created>1782974079032</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1782974079032</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
